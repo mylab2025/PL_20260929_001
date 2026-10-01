@@ -10,7 +10,18 @@
     "PlannedDate": "2026-09-28T00:00:00",
     "Remarks": "Ordering for explore RF and application (R/D purpose)\r\n\r\n*************OK Pls Proceed****************",
     "Deducted": true,
-    "Approval": "Approved"
+    "Approval": "Approved",
+    "CompletionLog": [
+      {
+        "MID": "MID20353",
+        "Done": true
+      },
+      {
+        "MID": "MID20351",
+        "Done": true
+      }
+    ],
+    "Completed": true
   },
   "materials": [
     {
